@@ -1,3 +1,4 @@
+#you can take all the code in this repo and put it into Pyxel Studio or simply go to this link www.pyxelstudio.net/m63hb4g5
 import pyxel
 pyxel.init(128,128, title="Nuit du code")
 pyxel.load("4.pyxres")
